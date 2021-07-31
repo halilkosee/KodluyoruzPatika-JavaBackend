@@ -1,5 +1,5 @@
 import java.util.*;
-public class HavaSıcakligindanEtkinlikOnerme {
+public class HavaSicakligindanEtkinlikOnerme {
     public static void main(String[] args) {
         Scanner getInput = new Scanner(System.in);
         float cond;
