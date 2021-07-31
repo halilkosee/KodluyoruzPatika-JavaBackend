@@ -4,7 +4,6 @@ import java.util.Scanner;
  * TekSayilarToplam
  */
 public class TekSayilarToplam {
-
     public static void main(String[] args) {
         int n = 0,sum=0;
         Scanner getInput = new Scanner(System.in);
