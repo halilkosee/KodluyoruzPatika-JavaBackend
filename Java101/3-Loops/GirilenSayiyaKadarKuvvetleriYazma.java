@@ -7,7 +7,6 @@ public class GirilenSayiyaKadarKuvvetleriYazma {
     public static void main(String[] args) {
         int n;
         boolean check4 = false,check5 =false;
-        boolean loop = false;
         Scanner getInput = new Scanner(System.in);
         System.out.print("Sayı Giriniz : ");
         n = getInput.nextInt();
