@@ -1,7 +1,4 @@
 import java.util.Scanner;
-
-import jdk.nashorn.api.tree.WhileLoopTree;
-
 public class MukemmelSayi {
     public static void main(String[] args) {
         int number,modNumber = 0,sum = 0;
