@@ -14,5 +14,6 @@ public class RecursiveUsAlma {
         System.out.print("Üs değeri : ");
         int power = getInput.nextInt();
         System.out.println("Sonuc = " + power(number, power));
+        getInput.close();
     } 
 }
