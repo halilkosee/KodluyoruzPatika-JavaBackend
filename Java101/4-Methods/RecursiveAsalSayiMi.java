@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RecursiveAsalSayiMi {97
+public class RecursiveAsalSayiMi {
     static boolean isPrime(int number,int half){
         if(half == 1){
             return true;
