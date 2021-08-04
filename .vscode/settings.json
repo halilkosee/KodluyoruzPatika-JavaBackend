@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "Java101/3-Loops",
         "Java101/2-ConditionsAndCodeBlocks",
         "Java101/1-BasicsAndVariables",
-        "Java101/3-Loops"
+        "Java101/4-Methods"
     ]
 }

@@ -6,6 +6,7 @@ public class Fibonacci {
         Scanner getInput = new Scanner(System.in);
         System.out.print("Fibonacci dizisinin listelemek istediğiniz elemanı sayısını girin :");
         userInput = getInput.nextInt();
+        getInput.close();
         int previous_1 = 0, previous_2 = 0;
         for(int i = 0; i<=userInput; i++){
             if(i<2){
