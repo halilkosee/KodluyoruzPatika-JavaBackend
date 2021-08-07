@@ -1,5 +1,3 @@
-
-
 public class HarmonikOrtalama {
     
     static double harmonic(int arr[]){
