@@ -26,7 +26,7 @@ public class EnYakin {
             low = arr[8];
             high = 0;
 
-        }else{7
+        }else{
             for(int i = 0; i<arr.length;i++){
                 if(arr[i]==input){
                     low = arr [i -1];
